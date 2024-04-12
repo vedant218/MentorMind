@@ -52,6 +52,11 @@ const AboutSectionTwo = () => {
                   Allow students to sync their customized schedules with popular
                   calendar apps for easy access and reminders.
                 </p>
+                <br />
+                <a href="https://www.morphic.sh/" className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                  Try our support system chatbot! Use it to create your own
+                  personalized schedule
+                </a>
               </div>
             </div>
           </div>

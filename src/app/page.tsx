@@ -9,7 +9,10 @@ import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
+import Form from "@/components/Form";
+
 import { Metadata } from "next";
+import Card from "@/components/Form/card";
 
 export const metadata: Metadata = {
   title: "MentorMind",
@@ -30,7 +33,9 @@ export default function Home() {
       <Testimonials />
       {/* <Pricing /> */}
       {/* <Blog /> */}
-      <Contact />
+      {/* <Contact /> */}
+      <Form />
+      <Card />
     </>
   );
 }
