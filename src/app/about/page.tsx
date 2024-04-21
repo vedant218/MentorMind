@@ -17,7 +17,7 @@ const AboutPage = () => {
         pageName="Schedule Your daily Studying!"
         description="Unlocking the full potential of personalized learning, our customized schedules offer tailored study plans designed to optimize your preparation for the JEE exam. Explore the features below to see how our flexible and adaptive approach can help you achieve your academic goals:"
       />
-      <AboutSectionOne />
+      <AboutSectionOne /> 
       <AboutSectionTwo />
     </>
   );
